@@ -1,0 +1,23 @@
+.App {
+  margin: 16px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1%;
+  border: 3px double plum;
+}
+
+.container input {
+  padding: 3px;
+  border: 1px solid plum;
+}
+
+.characters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
